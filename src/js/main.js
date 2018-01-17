@@ -22,14 +22,10 @@ var lerp = function(a, b, d) {
 };
 
 var low = components.stDarkBlue;
-var high = lerp(components.stDarkBlue, [0, 0, 0], .9);
+var high = lerp(components.stDarkBlue, [0, 0, 0], 1);
 
 var colorize = function(scaling) {
   return rgb.apply(null, lerp(low, high, scaling));
-};
-
-var gradient = function(scale) {
-  return `hsl(${280 + scale * 80}, ${scale * 30 + 20}%, ${scale * 30 + 20}%)`;
 };
 
 var commafy = function(n) {
@@ -38,7 +34,7 @@ var commafy = function(n) {
 
 xhr("./assets/shapefile.geojson", function(err, data) {
   var maxRate = 0;
-  data.features.forEach(function(feature) {
+  data.features = data.features.filter(function(feature) {
     var fc = feature.properties.fc_2014;
     var units = feature.properties.units_2014;
     var total = 0;
@@ -49,6 +45,7 @@ xhr("./assets/shapefile.geojson", function(err, data) {
     if (fc && units) {
       feature.properties.rate = fc / units;
       if (feature.properties.rate > maxRate) maxRate = feature.properties.rate;
+      return true;
     }
   })
   var geojson = L.geoJSON(data, {
@@ -56,7 +53,7 @@ xhr("./assets/shapefile.geojson", function(err, data) {
       var { properties } = feature;
       var { rate } = properties;
       var scaled = rate ? rate / maxRate : 0;
-      var color = properties.fc_2014 ? colorize(scaled) : "transparent";
+      var color = colorize(scaled);
       return {
         weight: 1,
         color: palette.dfDarkGray,
@@ -97,7 +94,7 @@ xhr("./assets/shapefile.geojson", function(err, data) {
         ${getYear(2009)}
         ${getYear(2008)}
         <tr class="total">
-          <td>2008-2014
+          <td class="year">2008-2014
           <td>${commafy(properties.total)}
     </table>
   </div>
