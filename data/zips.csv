@@ -1,0 +1,249 @@
+zip,city,state,county,units_2014,fc_2016,fc_2015,fc_2014,fc_2013,fc_2012,fc_2011,fc_2010,fc_2009,fc_2008
+98001,Auburn,Washington,King,11718,107,144,124,259,235,281,347,305,174
+98002,Auburn,Washington,King,13981,103,138,154,217,214,202,256,197,122
+98003,Federal Way,Washington,King,19279,111,176,175,284,242,316,416,342,231
+98004,Bellevue,Washington,King,16773,46,35,25,74,78,126,210,173,86
+98005,Bellevue,Washington,King,8229,29,29,31,46,43,69,121,96,54
+98006,Bellevue,Washington,King,13558,45,51,35,104,99,92,160,115,43
+98007,Bellevue,Washington,King,10912,29,27,35,69,79,110,181,68,31
+98008,Bellevue,Washington,King,9349,20,29,32,66,68,75,128,102,52
+98009,Bellevue,Washington,King,0,,,,0,0,1,0,0,
+98010,Black Diamond,Washington,King,1978,12,10,14,25,36,33,52,42,12
+98011,Bothell,Washington,King,13089,48,71,76,131,160,232,240,140,66
+98012,Bothell,Washington,Snohomish,21347,105,145,173,326,322,436,515,384,208
+98013,Burton,Washington,King,0,,,,0,0,0,0,0,
+98014,Carnation,Washington,King,2796,18,25,32,41,36,49,48,51,24
+98015,Bellevue,Washington,King,0,,,,0,0,2,0,0,
+98019,Duvall,Washington,King,4151,29,28,38,55,63,61,63,55,47
+98020,Edmonds,Washington,Snohomish,8935,22,29,28,54,104,80,102,73,31
+98021,Bothell,Washington,Snohomish,10673,27,49,60,130,137,139,180,135,77
+98022,Enumclaw,Washington,King,9049,56,64,81,113,102,137,183,120,73
+98023,Federal Way,Washington,King,18625,176,217,287,391,308,430,513,434,289
+98024,Fall City,Washington,King,2228,18,20,15,25,19,27,44,30,17
+98025,Hobart,Washington,King,0,,,,0,0,1,0,0,
+98026,Edmonds,Washington,Snohomish,15594,63,92,109,185,228,239,273,198,85
+98027,Issaquah,Washington,King,11363,46,62,58,120,143,144,178,104,69
+98028,Kenmore,Washington,King,8635,48,36,55,83,104,127,153,156,62
+98029,Issaquah,Washington,King,11047,48,47,45,96,99,147,159,145,57
+98030,Kent,Washington,King,12534,90,112,140,236,230,296,365,320,192
+98031,Kent,Washington,King,12903,95,132,147,217,191,264,327,339,253
+98032,Kent,Washington,King,14852,118,122,116,218,205,231,268,183,140
+98033,Kirkland,Washington,King,16431,45,69,71,119,132,185,296,224,125
+98034,Kirkland,Washington,King,18171,106,109,176,229,240,384,422,299,135
+98035,Kent,Washington,King,0,,,,0,0,0,0,0,
+98036,Lynnwood,Washington,Snohomish,14582,56,75,98,189,210,232,280,224,117
+98037,Lynnwood,Washington,Snohomish,10772,50,65,73,145,155,205,210,167,99
+98038,Maple Valley,Washington,King,12318,93,104,134,211,230,242,292,240,174
+98039,Medina,Washington,King,1214,5,1,1,8,6,4,10,13,4
+98040,Mercer Island,Washington,King,10139,19,15,9,36,28,29,53,50,25
+98041,Bothell,Washington,King,0,,,,0,0,0,0,0,
+98042,Kent,Washington,King,16818,147,198,205,375,327,351,471,429,247
+98043,Mountlake Terrace,Washington,Snohomish,8652,46,61,72,115,154,182,163,116,71
+98045,North Bend,Washington,King,5880,34,48,53,81,80,91,107,76,39
+98046,Lynnwood,Washington,Snohomish,0,,,,0,0,0,0,0,
+98047,Pacific,Washington,King,2475,16,33,25,54,55,62,68,88,49
+98050,Preston,Washington,King,55,1,,2,0,1,1,0,1,1
+98051,Ravensdale,Washington,King,1287,12,10,12,24,19,21,25,24,14
+98052,Redmond,Washington,King,26472,57,64,80,128,164,246,273,147,86
+98053,Redmond,Washington,King,8200,24,29,45,58,46,61,67,74,47
+98054,Redondo,Washington,King,0,,,,0,0,0,0,0,
+98055,Renton,Washington,King,9186,71,91,84,150,160,167,226,180,97
+98056,Renton,Washington,King,13631,55,92,99,193,196,231,302,200,139
+98057,Renton,Washington,King,6251,32,23,22,91,125,70,106,60,59
+98058,Renton,Washington,King,16367,105,162,158,266,226,261,347,271,172
+98059,Renton,Washington,King,13401,61,82,79,164,149,202,268,206,112
+98062,Seahurst,Washington,King,0,,,,0,0,0,0,0,
+98063,Federal Way,Washington,King,0,,,,0,0,0,0,0,
+98064,Kent,Washington,King,0,,,,0,0,0,0,0,
+98065,Snoqualmie,Washington,King,4755,30,32,37,79,62,104,108,86,50
+98068,Snoqualmie Pass,Washington,King,712,,2,1,2,3,9,1,1,
+98070,Vashon,Washington,King,5723,28,22,42,49,44,31,44,33,31
+98071,Auburn,Washington,King,0,,,,0,0,1,0,0,
+98072,Woodinville,Washington,King,9093,28,41,41,102,101,137,157,134,76
+98073,Redmond,Washington,King,0,,,,0,0,3,0,0,
+98074,Sammamish,Washington,King,8959,14,34,36,69,74,99,121,73,44
+98075,Sammamish,Washington,King,7356,22,33,18,37,38,54,65,61,34
+98077,Woodinville,Washington,King,4928,18,23,21,43,29,34,79,54,37
+98082,Bothell,Washington,Snohomish,0,,,,0,0,0,0,0,
+98083,Kirkland,Washington,King,0,,,,0,0,3,0,0,
+98087,LYNNWOOD,Washington,SNOHOMISH,12513,63,78,117,185,242,276,304,228,105
+98089,Kent,Washington,King,0,,,,0,0,0,0,0,
+98092,Auburn,Washington,King,15769,124,164,177,315,301,311,417,376,249
+98093,Federal Way,Washington,King,0,,,,0,0,1,0,0,
+98101,Seattle,Washington,King,8804,6,8,7,20,29,37,45,29,12
+98102,Seattle,Washington,King,14696,22,18,15,32,52,72,71,40,43
+98103,Seattle,Washington,King,24335,40,25,52,85,105,117,142,126,80
+98104,Seattle,Washington,King,7770,14,10,11,18,12,35,30,13,13
+98105,Seattle,Washington,King,16197,17,16,8,25,29,28,30,34,22
+98106,Seattle,Washington,King,10674,50,71,89,141,131,157,180,159,92
+98107,Seattle,Washington,King,12416,18,12,15,36,28,74,76,37,35
+98108,Seattle,Washington,King,8329,35,35,38,85,68,81,116,88,68
+98109,Seattle,Washington,King,14434,17,26,31,68,45,70,129,110,35
+98111,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98112,Seattle,Washington,King,11036,18,12,11,35,36,35,53,41,31
+98113,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98114,Seattle,Washington,King,0,,,,0,0,4,0,0,
+98115,Seattle,Washington,King,21778,40,43,37,90,88,93,89,75,63
+98116,Seattle,Washington,King,12217,43,33,43,78,80,100,128,70,56
+98117,Seattle,Washington,King,14093,22,36,44,51,52,58,82,75,58
+98118,Seattle,Washington,King,16861,81,94,112,205,219,244,284,254,178
+98119,Seattle,Washington,King,12075,21,24,20,55,60,68,89,65,46
+98121,Seattle,Washington,King,10059,26,20,26,63,59,84,84,43,20
+98122,Seattle,Washington,King,17176,49,38,42,69,70,99,158,139,93
+98124,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98125,Seattle,Washington,King,18728,47,51,70,119,106,128,129,108,92
+98126,Seattle,Washington,King,10016,44,32,50,120,86,121,138,82,52
+98127,Seattle,Washington,King,0,,,,0,0,5,0,0,
+98129,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98131,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98132,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98133,Seattle,Washington,King,21780,75,87,130,179,180,205,231,154,92
+98134,Seattle,Washington,King,279,3,,,1,1,4,4,1,1
+98136,Seattle,Washington,King,7488,17,10,16,31,43,50,59,49,28
+98138,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98139,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98141,Seattle,Washington,King,0,,,,0,0,0,1,0,
+98144,Seattle,Washington,King,12994,45,40,45,73,81,111,129,121,84
+98145,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98146,Seattle,Washington,King,10155,64,75,116,165,126,127,185,151,108
+98148,Seattle,Washington,King,4554,17,24,29,65,42,54,57,43,34
+98151,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98154,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98155,Seattle,Washington,King,13823,62,69,86,159,151,160,231,128,92
+98158,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98160,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98161,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98164,Seattle,Washington,King,100,,,,0,2,4,0,1,
+98165,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98166,Seattle,Washington,King,8880,29,37,53,106,94,75,126,67,46
+98168,Seattle,Washington,King,12234,135,128,140,231,233,287,353,305,182
+98170,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98171,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98174,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98175,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98177,Seattle,Washington,King,8127,22,27,22,45,48,52,73,44,27
+98178,Seattle,Washington,King,9374,81,89,121,191,163,189,229,196,143
+98181,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98184,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98185,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98188,Seattle,Washington,King,10236,59,73,79,170,136,163,197,148,99
+98189,Seattle,Washington,King,0,,,,,,,,,
+98190,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98191,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98194,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98195,Seattle,Washington,King,0,,,,0,0,0,0,0,
+98198,Seattle,Washington,King,14108,124,112,162,280,229,311,369,265,203
+98199,Seattle,Washington,King,9908,24,25,29,60,61,78,117,54,33
+98201,Everett,Washington,Snohomish,13716,85,116,140,243,243,243,262,201,134
+98203,Everett,Washington,Snohomish,14078,89,114,131,252,275,279,363,298,162
+98204,Everett,Washington,Snohomish,17405,94,87,128,270,284,401,458,277,126
+98205,Everett,Washington,Snohomish,4663,13,51,51,94,52,128,195,157,113
+98206,Everett,Washington,Snohomish,0,1,2,1,0,0,0,0,0,
+98207,Everett,Washington,Snohomish,0,,,,0,0,0,0,0,
+98208,Everett,Washington,Snohomish,20488,110,161,189,332,360,373,476,417,198
+98213,Everett,Washington,Snohomish,0,,,,0,0,3,0,0,
+98223,Arlington,Washington,Snohomish,16195,139,201,218,358,383,354,400,336,179
+98224,Baring,Washington,King,368,2,2,4,3,4,1,4,1,3
+98241,Darrington,Washington,Snohomish,1082,16,15,14,27,36,23,24,12,6
+98251,Gold Bar,Washington,Snohomish,2130,25,36,41,79,60,52,66,51,34
+98252,Granite Falls,Washington,Snohomish,3940,38,61,67,134,136,91,131,117,70
+98256,Index,Washington,Snohomish,481,,,4,4,2,3,2,0,
+98258,Lake Stevens,Washington,Snohomish,11508,130,187,192,381,360,369,346,242,135
+98259,North Lakewood,Washington,Snohomish,0,,1,,0,0,0,0,0,
+98270,Marysville,Washington,Snohomish,17840,159,194,218,450,458,435,531,397,240
+98271,Marysville,Washington,Snohomish,10786,91,137,143,200,208,220,269,189,151
+98272,Monroe,Washington,Snohomish,9402,78,84,125,223,231,235,339,220,133
+98275,Mukilteo,Washington,Snohomish,8327,35,39,49,92,105,155,158,119,42
+98287,Silvana,Washington,Snohomish,0,,,,1,0,0,0,0,
+98288,Skykomish,Washington,King,408,2,7,9,5,2,2,1,1,2
+98290,Snohomish,Washington,Snohomish,13417,86,111,116,208,231,240,325,258,120
+98291,Snohomish,Washington,Snohomish,0,,,,0,0,1,0,0,
+98292,Stanwood,Washington,Snohomish,9099,67,83,112,168,168,173,212,139,69
+98293,Startup,Washington,Snohomish,0,,,,0,2,0,1,0,
+98294,Sultan,Washington,Snohomish,2709,47,36,52,85,87,85,115,98,45
+98296,Snohomish,Washington,Snohomish,10090,57,61,61,122,162,150,186,164,83
+98303,Anderson Island,Washington,Pierce,1196,8,17,17,20,15,14,22,22,30
+98304,Ashford,Washington,Pierce,782,3,5,8,13,8,6,6,2,9
+98321,Buckley,Washington,Pierce,5229,71,105,85,152,144,135,149,99,81
+98323,Carbonado,Washington,Pierce,254,2,7,7,12,7,5,7,7,7
+98327,Dupont,Washington,Pierce,3392,23,42,35,49,47,29,43,35,28
+98328,Eatonville,Washington,Pierce,4354,55,62,62,114,81,79,108,96,76
+98329,Gig Harbor,Washington,Pierce,4139,54,95,100,118,89,96,135,137,140
+98330,Elbe,Washington,Pierce,131,1,,,1,1,0,1,0,2
+98332,Gig Harbor,Washington,Pierce,6388,42,56,40,112,75,72,133,106,79
+98333,Fox Island,Washington,Pierce,1548,8,13,12,16,13,22,38,27,22
+98335,Gig Harbor,Washington,Pierce,10591,54,101,77,163,138,98,156,210,206
+98338,Graham,Washington,Pierce,9248,120,190,198,277,228,203,273,244,197
+98344,Kapowsin,Washington,Pierce,0,,,,1,0,0,1,0,
+98348,La Grande,Washington,Pierce,0,,,,0,0,0,0,0,
+98349,Lakebay,Washington,Pierce,2559,53,62,39,79,51,57,103,76,63
+98351,Longbranch,Washington,Pierce,643,4,7,14,14,12,12,20,10,16
+98352,Sumner,Washington,Pierce,0,1,,,0,0,3,1,0,
+98354,Milton,Washington,Pierce,2944,27,24,34,79,69,60,65,50,36
+98360,Orting,Washington,Pierce,4389,93,122,120,216,205,142,218,167,171
+98371,Puyallup,Washington,Pierce,8508,59,78,127,126,117,113,134,136,108
+98372,Puyallup,Washington,Pierce,9772,78,99,104,168,133,150,170,154,123
+98373,Puyallup,Washington,Pierce,9489,79,127,137,213,195,180,226,199,146
+98374,Puyallup,Washington,Pierce,14256,162,241,205,397,336,321,422,331,299
+98375,Puyallup,Washington,Pierce,9930,135,198,203,383,307,320,445,421,529
+98385,South Prairie,Washington,Pierce,144,3,3,2,5,4,6,5,4,4
+98387,Spanaway,Washington,Pierce,15986,316,441,368,622,540,448,590,650,476
+98388,Steilacoom,Washington,Pierce,2879,9,14,14,29,24,18,25,24,17
+98390,Sumner,Washington,Pierce,4518,51,42,55,112,70,71,67,70,61
+98391,BONNEY LAKE,Washington,PIERCE,16393,216,268,322,497,479,415,521,556,471
+98394,Vaughn,Washington,Pierce,770,3,8,14,9,5,5,12,12,20
+98395,Wauna,Washington,Pierce,0,,,,0,0,0,0,0,
+98396,Wilkeson,Washington,Pierce,253,2,4,2,3,3,2,3,1,
+98397,Longmire,Washington,Pierce,0,,,,0,0,0,0,0,
+98398,Paradise Inn,Washington,Pierce,0,,,,0,0,0,0,0,
+98401,Tacoma,Washington,Pierce,0,4,3,1,0,2,0,0,0,
+98402,Tacoma,Washington,Pierce,3868,18,23,18,39,58,30,49,30,19
+98403,Tacoma,Washington,Pierce,4648,21,19,40,42,48,33,57,50,43
+98404,Tacoma,Washington,Pierce,11800,224,264,255,392,337,301,478,450,485
+98405,Tacoma,Washington,Pierce,10381,104,163,200,275,208,217,329,328,290
+98406,Tacoma,Washington,Pierce,9870,55,81,71,141,118,112,140,119,113
+98407,Tacoma,Washington,Pierce,9463,55,92,87,127,124,117,159,127,100
+98408,Tacoma,Washington,Pierce,7777,110,177,213,266,249,199,257,240,222
+98409,Tacoma,Washington,Pierce,10149,119,164,174,309,229,189,236,267,241
+98411,Tacoma,Washington,Pierce,0,,,1,0,1,0,0,0,
+98412,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98413,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98415,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98416,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98417,Tacoma,Washington,Pierce,0,,,,,,,,,
+98418,Tacoma,Washington,Pierce,4180,55,91,99,176,139,95,130,150,135
+98419,Tacoma,Washington,Pierce,0,,,,,,,,,
+98421,Tacoma,Washington,Pierce,0,,1,2,2,2,0,3,3,
+98422,Tacoma,Washington,Pierce,7830,46,107,103,166,124,118,206,185,156
+98424,Tacoma,Washington,Pierce,4148,54,51,67,107,109,118,143,165,61
+98430,Camp Murray,Washington,Pierce,4,,,,0,0,0,0,0,
+98431,Tacoma,Washington,Pierce,0,,,,0,0,1,0,0,
+98433,Tacoma,Washington,Pierce,4105,,,,0,0,0,0,0,
+98438,Mcchord AFB,Washington,Pierce,8,,,,1,0,0,0,0,
+98439,Lakewood,Washington,Pierce,2051,4,4,,1,5,1,4,1,2
+98442,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98443,Tacoma,Washington,Pierce,2300,16,26,29,38,34,27,37,34,26
+98444,Tacoma,Washington,Pierce,13747,134,160,192,269,242,192,269,254,230
+98445,Tacoma,Washington,Pierce,11808,155,241,247,352,306,241,368,331,245
+98446,Tacoma,Washington,Pierce,3969,50,65,66,115,94,81,121,94,77
+98447,Tacoma,Washington,Pierce,0,,,,0,0,0,1,1,
+98448,Tacoma,Washington,Pierce,0,,,,,,,,,
+98450,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98455,Tacoma,Washington,Pierce,0,,,1,0,0,0,0,0,
+98460,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98464,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98465,Tacoma,Washington,Pierce,3340,16,16,26,51,42,29,40,30,29
+98466,Tacoma,Washington,Pierce,12051,58,82,101,154,114,102,159,136,116
+98467,University Place,Washington,Pierce,6563,31,33,64,71,54,66,86,67,72
+98471,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98477,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98481,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98490,Tacoma,Washington,Pierce,0,,,,,,,,,
+98492,Lakewood,Washington,Pierce,0,,,,0,0,0,0,0,
+98493,Tacoma,Washington,Pierce,0,,,,0,0,0,0,0,
+98496,Lakewood,Washington,Pierce,0,,,,,,,,,
+98497,Lakewood,Washington,Pierce,0,,,,0,0,0,0,0,
+98498,Lakewood,Washington,Pierce,12547,121,150,136,196,164,148,220,175,336
+98499,Lakewood,Washington,Pierce,14009,82,117,96,155,153,169,173,141,173
+98558,Mckenna,Washington,Pierce,86,,2,3,4,0,2,1,0,
+98580,Roy,Washington,Pierce,4286,53,92,80,123,92,82,119,97,81

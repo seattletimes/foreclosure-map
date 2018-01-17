@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+
+    <responsive-child>
+      <main class="interactive">
+        <h1>Where did foreclosures hit hardest?</h1>
+        <p class="chatter">
+          The map below shows foreclosure rates by ZIP code for the Seattle metro area in 2014, with higher rates shown in darker shades. Click on an area to get the exact rate, number of housing units in that area, and number of properties with foreclosure filings since 2008. Some units may have been the subject of multiple foreclosures.
+
+        <div class="map-container">
+          <leaflet-map>
+            <map-options>{ "scrollWheelZoom": false }</map-options>
+            <tile-layer layer="cartoPositron"></tile-layer>
+          </leaflet-map>
+        </div>
+        <div class="source">
+          Source: ATTOM Data Solutions
+        </div>
+        <div class="credit">
+          Thomas Wilburn / The Seattle Times
+        </div>
+      </main>
+    </responsive-child>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
